@@ -7,6 +7,7 @@
 
 coverage = {};
 
+
 // General helpers
 function debounce(callback, wait) {
     let timeoutId = null;
